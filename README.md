@@ -2,9 +2,6 @@
 <div align="center">
 I’m currently learning Python, ML, DL
 </div>
-<span style = " font-size:1.5em;  color: green;">
-Skill Set
-</span>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
