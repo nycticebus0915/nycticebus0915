@@ -3,7 +3,7 @@
 I’m currently learning Python, ML, DL
 </div>
 <div align="center">
-Skill Set  
+<>Skill Set  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
@@ -27,4 +27,6 @@ Skill Set
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETC_BeautifulSoup, Statmodels, Matplotlib, Seaborn-7D929E?style=flat-square&logo=Moleculer&logoColor=white"/>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nycticebus0915
+=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
