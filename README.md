@@ -24,6 +24,6 @@ I’m currently learning Python, ML, DL
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETC_BeautifulSoup, Statmodels, Matplotlib, Seaborn-7D929E?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETC_BeautifulSoup, Statmodels, Matplotlib, Seaborn-7D929E?style=flat-square&logo=Moleculer&logoColor=white"/>
 </div>
 
