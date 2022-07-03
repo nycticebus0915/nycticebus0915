@@ -2,7 +2,7 @@
 
 
 
-I’m currently learning Python,ML,DL
+I’m currently learning Python, ML, DL
 
 
 <img src="https://img.shields.io/badge/Language_Python-006272?style=flat-square&logo=Android&logoColor=white"/>
