@@ -11,3 +11,4 @@ I’m currently learning Python, ML, DL
 <img src="https://img.shields.io/badge/ETC_Pandas, Numpy, BeautifulSoup, Selenium, Scikit Learn, Scipy-150458?style=flat-square&logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETC_Statmodels, Matplotlib, Seaborn, Tableau, Flask, Django, Docker, AWS-29A7DF?style=flat-square&logo=Flask&logoColor=white"/>
 </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnycticebus0915%2Fnycticebus0915&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
