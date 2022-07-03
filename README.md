@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90" />
- &nbsp;
+\n
 I’m currently learning Python, ML, DL
- &nbsp;
+\n
 <img src="https://img.shields.io/badge/Language_Python-006272?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS_Windows, Linux-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framework_Tensorflow, Keras, PyTorch-5A17EE?style=flat-square&logo=PyTorch&logoColor=white"/>
