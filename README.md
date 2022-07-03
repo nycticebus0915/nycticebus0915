@@ -19,5 +19,11 @@ I’m currently learning Python, ML, DL
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup, Statmodels, Matplotlib, Seaborn, Tableau, Flask, Django, Docker, AWS-29A7DF?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETC_BeautifulSoup, Statmodels, Matplotlib, Seaborn-7D929E?style=flat-square&logo=Flask&logoColor=white"/>
 </div>
+
