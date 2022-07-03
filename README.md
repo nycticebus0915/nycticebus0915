@@ -1,2 +1,2 @@
-Hi tere
+Hi there
 
